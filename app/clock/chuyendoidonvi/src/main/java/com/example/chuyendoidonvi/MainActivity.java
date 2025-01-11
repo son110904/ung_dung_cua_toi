@@ -12,6 +12,8 @@ import androidx.core.view.WindowInsetsCompat;
 
 public class MainActivity extends AppCompatActivity {
 
+    TextView textView1;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -24,8 +26,9 @@ public class MainActivity extends AppCompatActivity {
         });
         Log.d("KTQD", "Phuong thuc onCreate() duoc goi");
 
-        TextView textView1 = findViewById(R.id.textView1);
-        textView1.setText("Lap trinh");
+    textView1 = findViewById(R.id.textView1);
+    textView1.setText("Set second");
+
     }
 
     @Override
