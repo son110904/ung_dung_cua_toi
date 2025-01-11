@@ -22,3 +22,4 @@ dependencyResolutionManagement {
 rootProject.name = "ung dung cua toi"
 include(":app")
 include(":app:clock")
+include(":app:clock:chuyendoidonvi")
