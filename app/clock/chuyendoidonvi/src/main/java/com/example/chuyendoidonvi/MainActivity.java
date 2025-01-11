@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity {
         Log.d("KTQD", "Phuong thuc onCreate() duoc goi");
 
         TextView textView1 = findViewById(R.id.textView1);
-        textView1.setText("Lap trinh android");
+        textView1.setText("Lap trinh");
     }
 
     @Override
