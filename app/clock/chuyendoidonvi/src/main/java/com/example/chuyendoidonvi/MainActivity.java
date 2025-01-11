@@ -20,5 +20,37 @@ public class MainActivity extends AppCompatActivity {
             v.setPadding(systemBars.left, systemBars.top, systemBars.right, systemBars.bottom);
             return insets;
         });
+        Log.d("KTQD", "Phuong thuc onCreate() duoc goi");
+    }
+    @Override
+    protected void onStart() {
+        super.onStart();
+        Log.d("KTQD", "Phuong thuc onStart() duoc goi");
+    }
+
+    @Override
+    protected void onResume() {
+        super.onResume();
+        Log.d("KTQD", "Phuong thuc onResume() duoc goi");
+    }
+
+    @Override
+    protected void onPause() {
+        super.onPause();
+        Log.d("KTQD", "Phuong thuc onPause() duoc goi");
+    }
+
+    @Override
+    protected void onStop() {
+        super.onStop();
+        Log.d("KTQD", "Phuong thuc onStop() duoc goi");
+
+    }
+
+    @Override
+    protected void onDestroy() {
+        super.onDestroy();
+        Log.d("KTQD", "Phuong thuc onDestroy() duoc goi");
+
     }
 }
