@@ -10,8 +10,11 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/app/calculator" />
             <option value="$PROJECT_DIR$/app/clock" />
+            <option value="$PROJECT_DIR$/app/clock/calculator" />
             <option value="$PROJECT_DIR$/app/clock/chuyendoidonvi" />
+            <option value="$PROJECT_DIR$/app/expensify" />
           </set>
         </option>
         <option name="resolveExternalAnnotations" value="false" />

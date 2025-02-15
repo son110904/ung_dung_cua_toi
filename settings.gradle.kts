@@ -23,3 +23,6 @@ rootProject.name = "ung dung cua toi"
 include(":app")
 include(":app:clock")
 include(":app:clock:chuyendoidonvi")
+include(":app:clock:calculator")
+include(":app:calculator")
+include(":app:expensify")
