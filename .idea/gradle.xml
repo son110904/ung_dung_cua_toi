@@ -15,6 +15,7 @@
             <option value="$PROJECT_DIR$/app/clock/calculator" />
             <option value="$PROJECT_DIR$/app/clock/chuyendoidonvi" />
             <option value="$PROJECT_DIR$/app/expensify" />
+            <option value="$PROJECT_DIR$/app/note" />
           </set>
         </option>
         <option name="resolveExternalAnnotations" value="false" />
