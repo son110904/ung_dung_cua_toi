@@ -16,6 +16,8 @@
             <option value="$PROJECT_DIR$/app/clock/chuyendoidonvi" />
             <option value="$PROJECT_DIR$/app/expensify" />
             <option value="$PROJECT_DIR$/app/note" />
+            <option value="$PROJECT_DIR$/app/tracnghiem" />
+            <option value="$PROJECT_DIR$/app/vocab" />
           </set>
         </option>
         <option name="resolveExternalAnnotations" value="false" />
